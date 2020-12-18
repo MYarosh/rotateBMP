@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/llp_lab_6_.dir/src/main.o CMakeFiles/llp_lab_6_.dir/src/lib/bmp_transform.o CMakeFiles/llp_lab_6_.dir/src/lib/bmp_io.o  -o llp_lab_6_ -lm 
